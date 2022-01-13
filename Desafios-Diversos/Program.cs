@@ -17,6 +17,7 @@ namespace Desafios_Diversos {
                 {"Desafio Altura do Prédio", AlturaPredio.Executar},
                 {"Desafio Maior, Menor e Média", MaiorMenorMedia.Executar},
                 {"Desafio Números pares e Ímpares", ParesImpares.Executar},
+                {"Desafio de Ordenação Decrescente de Array", OrdemArray.Executar},
                 {"Desafio Vogais em uma Frase", Vogais.Executar},
             });
 
