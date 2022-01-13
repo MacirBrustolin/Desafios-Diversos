@@ -1,4 +1,5 @@
-﻿using Desafios_Diversos.DesafiosLocalizaLabs;
+﻿using Desafios_Diversos.Desafios;
+using Desafios_Diversos.DesafiosLocalizaLabs;
 using System;
 using System.Collections.Generic;
 
@@ -12,6 +13,11 @@ namespace Desafios_Diversos {
                 {"Desafio da Esfera", Esfera.Executar},
                 {"Desafio do Xenlonguinho", Xenlonguinho.Executar},
                 {"Desafio do Pedro Bento e o Mundo de Oz", PedroBento.Executar},
+
+                {"Desafio Altura do Prédio", AlturaPredio.Executar},
+                {"Desafio Maior, Menor e Média", MaiorMenorMedia.Executar},
+                {"Desafio Números pares e Ímpares", ParesImpares.Executar},
+                {"Desafio Vogais em uma Frase", Vogais.Executar},
             });
 
             central.SelecionarEExecutar();
