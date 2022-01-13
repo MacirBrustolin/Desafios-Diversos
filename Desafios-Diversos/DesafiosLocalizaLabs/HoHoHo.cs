@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Desafios_Diversos.Desafios_Localiza_Labs {
+namespace Desafios_Diversos.DesafiosLocalizaLabs {
     class HoHoHo {
 
         public static void Executar() {
