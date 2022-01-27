@@ -1,4 +1,5 @@
 ﻿using Desafios_Diversos.Desafios;
+using Desafios_Diversos.Desafios2;
 using Desafios_Diversos.DesafiosLocalizaLabs;
 using System;
 using System.Collections.Generic;
@@ -19,6 +20,10 @@ namespace Desafios_Diversos {
                 {"Desafio Números pares e Ímpares", ParesImpares.Executar},
                 {"Desafio de Ordenação Decrescente de Array", OrdemArray.Executar},
                 {"Desafio Vogais em uma Frase", Vogais.Executar},
+
+                {"Desafio Soma de Ímpares Consecutivos II", SomaImparesConseutivosII.Executar},
+                {"Desafio Soma de Ímpares Consecutivos III", SomaImparesConseutivosIII.Executar},
+                {"Desafio Programa para Validação de Notas", ProgramaValidacaoNotas.Executar},
             });
 
             central.SelecionarEExecutar();
