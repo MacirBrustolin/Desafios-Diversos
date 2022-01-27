@@ -9,6 +9,8 @@ A entrada é composta por um único inteiro N (0 < N ≤ 106) representando quan
 ## Saída
 A saída é composta por todos "Ho" que Papai Noel deve falar separados por um espaço. Após o último "Ho" deve ser apresentado um "!" encerrando o programa.
 
+
+
 # Dividindo X por Y
 Você terá o desafio de escrever um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, mostre a mensagem “divisao impossivel” para os valores em questão.
 
@@ -17,6 +19,8 @@ A entrada contém um número inteiro N. Este N será a quantidade de pares de va
 
 ## Saída
 Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
+
+
 
 # Esfera
 Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R3. Considere (atribua) para pi o valor 3.14159.
@@ -28,6 +32,8 @@ O arquivo de entrada contém um valor de ponto flutuante (dupla precisão), corr
 
 ## Saída
 A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
+
+
 
 # Xenlonguinho
 Kogu está buscando as esferas do dragão para invocar Xenlonguinho e pedir para ele reviver seu amigo Kuriri, que infelizmente morreu na última batalha dos guerreiros Zê.
@@ -43,6 +49,8 @@ A primeira linha consiste de um inteiro C que representa a quantidade de casos d
 
 ## Saída
 Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procurar.
+
+
 
 # Pedro Bento e o mundo de OZ
 No jogo, O Mundo de Oz, Pedro Bento é o líder do Tribunal, por causa disso ele é uma das pessoas mais importantes do mundo, no jogo. Além disso, Pedro Bento possui um grande tesouro, o qual possui diversos tipos de jóias.
