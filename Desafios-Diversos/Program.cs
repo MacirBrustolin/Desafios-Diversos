@@ -1,6 +1,7 @@
 ﻿using Desafios_Diversos.Desafios;
 using Desafios_Diversos.Desafios2;
 using Desafios_Diversos.DesafiosLocalizaLabs;
+using Desafios_Diversos.DesafiosIniciaisGFT;
 using System;
 using System.Collections.Generic;
 
@@ -24,9 +25,14 @@ namespace Desafios_Diversos {
                 {"Desafio Soma de Ímpares Consecutivos II", SomaImparesConseutivosII.Executar},
                 {"Desafio Soma de Ímpares Consecutivos III", SomaImparesConseutivosIII.Executar},
                 {"Desafio Programa para Validação de Notas", ProgramaValidacaoNotas.Executar},
+
+                {"Desafio Escrever o nome do mês em inglês a partir de um numero inteiro N (1 < N < 12)", MonthByNumber.Executar},
+                {"Desafio Quadrado e Cubo", SquareandCubic.Executar},
+                {"Desafio Somar proxímos N números onde N é informado pelo usuário", SomaNPares.Executar},
             });
 
             central.SelecionarEExecutar();
+            
 
         }
 
