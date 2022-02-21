@@ -4,6 +4,7 @@ using Desafios_Diversos.DesafiosLocalizaLabs;
 using Desafios_Diversos.DesafiosIniciaisGFT;
 using System;
 using System.Collections.Generic;
+using Desafios_Diversos.DesafiosBasicosGFT;
 
 namespace Desafios_Diversos {
     class Program {
@@ -29,6 +30,10 @@ namespace Desafios_Diversos {
                 {"Desafio Escrever o nome do mês em inglês a partir de um numero inteiro N (1 < N < 12)", MonthByNumber.Executar},
                 {"Desafio Quadrado e Cubo", SquareandCubic.Executar},
                 {"Desafio Somar proxímos N números onde N é informado pelo usuário", SomaNPares.Executar},
+
+                {"Desafio Total de Cédulas", ContagemCedulas.Executar},
+                {"Desafio Triângulo", Triangulo.Executar},
+                {"Desafio Compras no Supermercado", ComprasSupermercado.Executar},
             });
 
             central.SelecionarEExecutar();
