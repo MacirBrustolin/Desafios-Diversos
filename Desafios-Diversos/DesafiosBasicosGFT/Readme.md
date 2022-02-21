@@ -7,33 +7,134 @@ Você receberá um valor inteiro N (0 < N < 1000000).
 ## Saída
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
-Exemplo de Entrada	Exemplo de Saída
-576                 576
-                    5 nota(s) de R$ 100,00
-                    1 nota(s) de R$ 50,00
-                    1 nota(s) de R$ 20,00
-                    0 nota(s) de R$ 10,00
-                    1 nota(s) de R$ 5,00
-                    0 nota(s) de R$ 2,00
-                    1 nota(s) de R$ 1,00
+<table>
+    <thead>
+        <tr>
+            <th>Exemplo de Entrada</th>
+            <th>Exemplo de Saída</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>576</td>
+            <td>576</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>5 nota(s) de R$ 100,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 50,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 20,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 10,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 5,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 2,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 1,00</td>
+        </tr>
+    </tbody>
+</table>
 
-11257	            11257
-                    112 nota(s) de R$ 100,00
-                    1 nota(s) de R$ 50,00
-                    0 nota(s) de R$ 20,00
-                    0 nota(s) de R$ 10,00
-                    1 nota(s) de R$ 5,00
-                    1 nota(s) de R$ 2,00
-                    0 nota(s) de R$ 1,00
+<table>
+    <thead>
+        <tr>
+            <th>Exemplo de Entrada</th>
+            <th>Exemplo de Saída</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>11257</td>
+            <td>11257</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>112 nota(s) de R$ 100,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 50,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 20,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 10,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 5,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 2,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 1,00</td>
+        </tr>
+    </tbody>
+</table>
 
-503	                503
-                    5 nota(s) de R$ 100,00
-                    0 nota(s) de R$ 50,00
-                    0 nota(s) de R$ 20,00
-                    0 nota(s) de R$ 10,00
-                    0 nota(s) de R$ 5,00
-                    1 nota(s) de R$ 2,00
-                    1 nota(s) de R$ 1,00
+<table>
+    <thead>
+        <tr>
+            <th>Exemplo de Entrada</th>
+            <th>Exemplo de Saída</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>503</td>
+            <td>503</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>5 nota(s) de R$ 100,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 50,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 20,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 10,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>0 nota(s) de R$ 5,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 2,00</td>
+        </tr>
+      <tr>
+            <td></td>
+            <td>1 nota(s) de R$ 1,00</td>
+        </tr>
+    </tbody>
+</table>
 
 <br><br>
 
@@ -54,10 +155,24 @@ A entrada contém três valores reais.
 ## Saída
 O resultado deve ser apresentado com uma casa decimal.
 
-Exemplo de Entrada	Exemplo de Saída
-6.0 4.0 2.0         Area = 10.0
-
-6.0 4.0 2.1         Perimetro = 12.1
+<table>
+    <thead>
+        <tr>
+            <th>Exemplo de Entrada</th>
+            <th>Exemplo de Saída</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>6.0 4.0 2.0</td>
+            <td>Area = 10.0</td>
+        </tr>
+      <tr>
+            <td>6.0 4.0 2.1</td>
+            <td>Perimetro = 12.1</td>
+        </tr>
+    </tbody>
+</table>
 
 <br><br>
 
@@ -70,13 +185,28 @@ A primeira linha de entrada contém um inteiro N (N < 100) com a quantidade de c
 ## Saída
 A saída contém N linhas, cada uma representando uma lista de compra, sem os itens repetidos e em ordem alfabética.
 
-
-Exemplo de Entrada	                            Exemplo de Saída
-2
-carne laranja suco picles laranja picles        carne laranja picles suco
-laranja pera laranja pera pera                  laranja pera
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Exemplo de Entrada</th>
+            <th>Exemplo de Saída</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2</td>
+            <td></td>
+        </tr>
+      <tr>
+            <td>carne laranja suco picles laranja picles</td>
+            <td>carne laranja picles suco</td>
+        </tr>
+      <tr>
+            <td>laranja pera laranja pera pera</td>
+            <td>laranja pera</td>
+        </tr>
+    </tbody>
+</table>
 
 <br><br>
 
