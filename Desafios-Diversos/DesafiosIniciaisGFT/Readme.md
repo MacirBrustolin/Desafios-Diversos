@@ -1,4 +1,4 @@
-# :question: Get the Month name by its number
+# :question: Indicar o Mês por extenso
 Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês, com a primeira letra maiúscula.
 
 ## Entrada
@@ -30,7 +30,7 @@ Exemplo de Entrada	Exemplo de Saída
 
 <br><br>
 
-# :question: Calcular a soma dos N próximos números páres
+# :question: Calcular a soma dos 5 próximos números pares
 O programa deve ler um valor inteiro D indefinidas vezes, ele só irá parar quando o valor de D for igual a 0. Para cada D lido, imprima a soma dos 5 pares consecutivos a partir de D, inclusive ele mesmo , se for par. Se o valor de entrada for 4, por exemplo, a saída deve ser 40, que é o resultado da operação: 4+6+8+10+12, enquanto que se o valor de entrada for 11, por exempo, a saída deve ser 80, que é a soma de 12+14+16+18+20.
 
 ## Entrada
